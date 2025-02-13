@@ -17,7 +17,7 @@ namespace tungstenlabs.integration.authenticid.tests
                 Constants.AUTHENTICID_API_URL,
                 Constants.AUTHENTICID_ACCESSKEY,
                 Constants.AUTHENTICID_SECRETTOKEN,
-                "License", false, "TotalAgility", false, "Portrait", "TotalAgility", "JobID");
+                "License", false, "TotalAgility", false, "Landscape", "TotalAgility", "JobID");
         }
     }
 }
